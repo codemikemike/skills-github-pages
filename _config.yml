@@ -1,0 +1,23 @@
+theme: minima
+
+title: "Codemikemike's Space 🚀"
+author: "codemikemike"
+description: >
+  Follow my journey through code, coffee, and creative chaos.
+  Built with Markdown, GitHub Pages, and good vibes. ✨
+
+# Optional social links (they show up in footer if using minima)
+social_links:
+  - github: codemikemike
+  - twitter: codemikemike
+  - youtube: "@codemikemike" # if you have a YouTube channel
+
+# Customize appearance
+show_excerpts: true # Shows post previews
+minima:
+  skin: dark # Try dark, solarized, classic, etc.
+  date_format: "%b %d, %Y" # Example: Mar 22, 2025
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
